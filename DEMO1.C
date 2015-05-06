@@ -10,7 +10,7 @@ main() {
 
    int i, j;
 	i = 0;
-   
+   //test
 	while (1) {
 		++i;
 		for (j=0; j<20000; ++j);
